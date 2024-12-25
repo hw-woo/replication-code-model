@@ -8,7 +8,7 @@ Hyunwoo Woo & Emmanuel Yimfor
 
 - Therefore, you should make a new folder (its name = "replication") after downloading this page (including all files and folders).
 - Then, make a sub-folder (its name = "code") and its sub-folder (its name = "model").
-- In doing so, whole files and the folder of this page should be put into the "replication/code/model" folder.
+- In doing so, the whole files and the folder of this page should be put into the "replication/code/model" folder.
 
-- Minimum Distance Estimation:
-- 
+- Minimum Distance Estimation process:
+![Example Image](mde_img.png)
