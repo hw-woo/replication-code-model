@@ -7,7 +7,7 @@
 
 (1) You should make a new folder (name = "replication") to run the codes after downloading this page.
 
-(2) Then, make a sub-folder (its name = "code") and its sub-folder (its name = "model").
+(2) Then, make a sub-folder (name = "code") and its sub-folder (name = "model").
 
 (3) In doing so, the whole files and the folder of this page should be put into the "replication/code/model" folder.
 
