@@ -1,5 +1,6 @@
 ### This page is for replicating the AER paper (by Python).
 #### *Updated: 2024-12-24 (Hyunwoo Woo & Emmanuel Yimfor)
+#### Current Phase: [Combining the above code with the STATA codes & Then, checking whether Minimum Distance Estimation runs well]
 
 - "m0_model_run_all" is the main core Python function file.
   - We have placed all the auxiliary/subordinate Python code scripts needed for the main code in the 'depends' folder to improve readability.
