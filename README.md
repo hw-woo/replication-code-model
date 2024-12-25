@@ -6,7 +6,8 @@
   - (e.g., the path of "create_tables.py" should be "replication/code/model/depends/create_tables")
 
 
-- Steps
+- Steps:
+
   (1) You should make a new folder (name = "replication") to run the codes after downloading this page.
 
   (2) Then, make a sub-folder (name = "code") and its sub-folder (name = "model").
