@@ -7,7 +7,9 @@ Hyunwoo Woo & Emmanuel Yimfor
   - (e.g., the path of "create_tables.py" should be "replication/code/model/depends/create_tables")
 
 (1) Therefore, you should make a new folder (its name = "replication") after downloading this page (including all files and folders).
+
 (2) Then, make a sub-folder (its name = "code") and its sub-folder (its name = "model").
+
 (3) In doing so, the whole files and the folder of this page should be put into the "replication/code/model" folder.
 
 #### Minimum Distance Estimation process:
