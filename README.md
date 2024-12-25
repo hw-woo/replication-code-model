@@ -1,4 +1,4 @@
-### This page is for replicating the AER paper (by Python).
+### This page is for replicating the AER paper's "Minimum Distance Estimation" (by Python).
 #### *Updated: 2024-12-24 (Hyunwoo Woo & Emmanuel Yimfor)
 #### **Current Phase: [Combining the above code with the STATA codes & Then, checking whether Minimum Distance Estimation runs well]
 
