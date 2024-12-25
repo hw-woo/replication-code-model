@@ -1,4 +1,4 @@
-### This page is for replicating AER paper (by Python).
+### This page is for replicating the AER paper (by Python).
 #### *Updated: 2024-12-24 (Hyunwoo Woo & Emmanuel Yimfor)
 
 - STARTING PATH: "replication/code/model"
