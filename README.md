@@ -1,6 +1,9 @@
 ### This page is for replicating the AER paper (by Python).
 #### *Updated: 2024-12-24 (Hyunwoo Woo & Emmanuel Yimfor)
 
+- "m0_model_run_all" is the main core Python function file.
+  - I have placed all the auxiliary/subordinate Python code scripts needed for the main code in the 'depends' folder to improve readability.
+
 - STARTING PATH: "replication/code/model"
   - (e.g., the path of "m0_model_run_all.py" should be "replication/code/model/m0_model_run_all.py")
   - (e.g., the path of "create_tables.py" should be "replication/code/model/depends/create_tables")
