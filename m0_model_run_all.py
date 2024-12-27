@@ -12,7 +12,8 @@ from depends.decompose_trends import decompose_trends
 from depends.save_tables import save_tables
 
 # Settings
-workdir = Path(r'C:/Users/kazuatsu/Desktop/ChicagoResearch/TaskBasedDiscrimination/replication/code')
+workdir = Path(r'D:/Research/RA_EmmanuelYimfor/AER_taskdiscrimination/replication/code')
+# Original: workdir = Path(r'C:/Users/kazuatsu/Desktop/ChicagoResearch/TaskBasedDiscrimination/replication/code')
 savedir_root = workdir / '../output/model/'
 os.chdir(workdir)
 
