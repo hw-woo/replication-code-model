@@ -1,5 +1,5 @@
 ### This page is for replicating the AER paper's "Minimum Distance Estimation" (by Python).
-#### *Updated: 2025-01-18 (Hyunwoo Woo & Emmanuel Yimfor)
+#### *Updated: 2025-01-16 (Hyunwoo Woo & Emmanuel Yimfor)
 #### **Current Phase: [Minor Error Revision & Converting original Matlab codes to run in the Python]
 
 - "main.py" is the main core Python function file.
