@@ -1,6 +1,6 @@
 ### This page is for replicating the AER paper's "Minimum Distance Estimation" (by Python).
 #### *Updated: 2025-01-18 (Hyunwoo Woo & Emmanuel Yimfor)
-#### **Current Phase: [Combining the above code with the STATA codes & Then, checking whether Minimum Distance Estimation runs well]
+#### **Current Phase: [Minor Error Revision & Converting original Matlab codes to run in the Python]
 
 - "main.py" is the main core Python function file.
   - We have placed all the auxiliary/subordinate Python code scripts needed for the main code in the 'model_python' and 'model_matlab' folders.
